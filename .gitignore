@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IDE / editor
+.idea/
+.kotlin/
+**/.kotlin/
+*.iml
+
+# Flutter / Android build outputs are ignored by app/.gitignore
+# and app/android/.gitignore

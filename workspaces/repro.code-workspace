@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "Hub",
+      "path": ".."
+    },
+    {
+      "name": "App",
+      "path": "../app"
+    }
+  ]
+}
